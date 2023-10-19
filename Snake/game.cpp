@@ -223,7 +223,4 @@ void GameField::GameOver()
     QString text = "Start again - SPACE";
     emit ChangeTextSignal(text);
     m_moveSnakeTimer->stop();
-   //delete m_snake;
-   //delete m_moveSnakeTimer;
-   //delete m_snake;
 }
