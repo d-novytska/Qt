@@ -8,7 +8,7 @@
 #include <QKeyEvent>
 #include <QString>
 #include <QRandomGenerator>
-#include <QObject>
+
 
 class SnakeItem;
 class Snake;
