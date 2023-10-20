@@ -1,4 +1,4 @@
-<h2>15_puzzle</h2>
+<h1>15_puzzle</h1>
 The "Fifteen Puzzle" or namely "15 Puzzle" project is a computer game created using C++ to implement the game's business logic and QML for creating the graphical interface. This game is a classic puzzle in which the player needs to move numerical tiles on a board to arrange them in the correct order from 1 to 15.
 
 #Calculator
